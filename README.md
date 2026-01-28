@@ -11,7 +11,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 ## Inhalte
 Blockentsäuerung
 - Allgemeine Beschreibung von Blockentsäuerungsverfahren
-- Beschreibung der genutzten Verharen innerhalb der LISE/Westfalen
+- Beschreibung der genutzten Verfahren innerhalb der LISE/Westfalen
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
 - Qualitätssicherungstabelle Block LISE/Westfalen
@@ -28,22 +28,22 @@ Einzelblattentsäuerung
   - Vorlage.xml
 - blockentsaeuerung/
   - methode_1/
-    - datensatz.xml
+    
   - methode_2/
-    - datensatz.xml
+    
   - methode_3/
-    - datensatz.xml
+  
   - methode_4/
-    - datensatz.xml
+  
   - methode_5/
-    - datensatz.xml
+    
 - einzelblattentsaeuerung/
   - datensatz.xml
 - LICENSE
 - README.md
 
 ## Pflege
-Dieses Repository wird derzeit von [Name] gepflegt.  
+Dieses Repository wird derzeit von LISE/Westfalen gepflegt.  
 Bei Änderungen bitte den Prozess „Pflegeanleitung.md“ beachten.
 
 ## Lizenz
