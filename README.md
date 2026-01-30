@@ -1,4 +1,4 @@
-# Aufbau des Repositorys
+# Aufbau ph-Wert Datenbank
 Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
 Grundlage sind die Messdaten die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden.
