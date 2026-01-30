@@ -9,14 +9,14 @@ Hierbei handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben geruf
 Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von anderen Institutionen/Projekten erweiterbare Sammlung an vergleichbaren Messdaten zur Mengenentsäuerung der wissenschaftlichen Forschung zugänglich zu machen.
 
 ## Inhalte
-Blockentsäuerung
+Ordner Blockentsäuerung
 - Allgemeine Beschreibung von Blockentsäuerungsverfahren
 - Beschreibung der genutzten Verfahren innerhalb der LISE/Westfalen
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
 - Qualitätssicherungstabelle Block LISE/Westfalen
 
-Einzelblattentsäuerung
+Ordner Einzelblattentsäuerung
 - Beschreibung des Verfahrens
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
