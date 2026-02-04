@@ -25,12 +25,14 @@ Ordner Einzelblattentsäuerung
 Ordner Vorlagen
 -Vorlage.xlsx
 
-## Contributing
+## Mitwirkung bei der Erweiterung der Datensammlun/Contributing
 
-Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken sie auf den folgenden Link für die Richtlinien und Anleitung zur Beteiligung:
+Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken Sie auf den folgenden Link:
 [Anleitung zur Beteiligung](Contributing.md)
 
-## Code of Conduct
+## Nutzung
+
+## Verhaltenscodex/Code of Conduct
 
 Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe [Verhaltensregeln](Code_of_Conduct.md)
 
