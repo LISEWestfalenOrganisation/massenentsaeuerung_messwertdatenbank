@@ -1,4 +1,4 @@
-#Richtlinien zur Mitwirkung
+# Richtlinien zur Mitwirkung
 
 Vorgehen zur Erweiterung der Datenbank
 
