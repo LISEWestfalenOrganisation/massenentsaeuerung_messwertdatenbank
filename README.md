@@ -25,7 +25,7 @@ Ordner Einzelblattentsäuerung
 Ordner Vorlagen
 -Vorlage.xlsx
 
-## Mitwirkung bei der Erweiterung der Datensammlun/Contributing
+## Mitwirkung bei der Erweiterung der Datensammlung/Contributing
 
 Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken Sie auf den folgenden Link:
 [Anleitung zur Beteiligung](Contributing.md)
