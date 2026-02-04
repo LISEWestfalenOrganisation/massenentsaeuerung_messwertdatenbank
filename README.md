@@ -22,22 +22,19 @@ Ordner Einzelblattentsäuerung
 - Auswahl der Menge und Messpunkte
 - Qualitätssicherungstabelle Einzelblatt LISE/Westfalen
 
-# Struktur
-- _docs/
+## Contributing
+
+Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken sie auf den folgenden Link für die Richtlinien und Anleitung zur Beteiligung:
+[Contribution guidlines for this projekt](does/CONTRIBUTING.md)
+
+## Struktur
+- Vorlage/
   - README.md
   - Vorlage.xml
-- blockentsaeuerung/
-  - methode_1/
+- Blockentsäuerung/
+  - datensatz.xml
     
-  - methode_2/
-    
-  - methode_3/
-  
-  - methode_4/
-  
-  - methode_5/
-    
-- einzelblattentsaeuerung/
+- Einzelblattentsäuerung/
   - datensatz.xml
 - LICENSE
 - README.md
