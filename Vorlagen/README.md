@@ -17,7 +17,7 @@ AAJB (=Archiv der Arbeiterjugendbewegung)) ist diese zu verwenden. Handelt es si
 - Gemeindearchiv:      GemeindeA
 - Universitätsarchiv:  UniA
 - Kirchenarchiv:       KirchenA
-- Adelsarchiv:         AdelsA + Name (??)
+- Adelsarchiv:         AdelsA 
 
 **Entstehungszeit**  
 Da der genaue Herstellungszeitpunkt des gemessenen Papiers nicht ohne technischen Aufwand zu ermitteln ist, wird hier der Zeitpunkt der Beschriftung / des Drucks angegeben, um zumindest einen Terminus ante quem für die Produktion des Papiers zu erfassen.
