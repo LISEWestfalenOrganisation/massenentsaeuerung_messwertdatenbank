@@ -50,8 +50,6 @@ Moderator:innen nehmen Meldungen von Verstößen ernst und bemühen sich um eine
 
 ## Umgang mit Verstößen und Wiedergutmachung 
 
-****
-
 Stellt das Moderationsteam nach einer Untersuchung einen Verstoß gegen diesen Verhaltenskodex fest, kann das folgende Eskalationsverfahren angewendet werden. Die Wahl der Maßnahme hängt von der Auswirkung des Vorfalls auf die Beteiligten und die Gemeinschaft ab. Je nach Schwere des Verstoßes können niedrigere Stufen übersprungen werden.
 
 1. Verwarnung  
