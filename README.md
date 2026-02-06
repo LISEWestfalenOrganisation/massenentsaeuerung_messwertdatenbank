@@ -47,7 +47,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 **Ordner Einzelblattentsäuerung**
 - LISE_QS_pH-Block.xlsx
 - Methodik der Datengewinnung.pdf -> Beschreibung der Meßmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
-- README.md -> Allgemeine Beschreibung der wässrigen Entsäuerung & Beschreibung des genutzten Verfahren durch die LISE/Westfalen
+- README.md -> Allgemeine Beschreibung der wässrigen Entsäuerung & Beschreibung des genutzten Verfahrens durch die LISE/Westfalen
 
 **Ordner Vorlagen**
 - Vorlage.xlsx
