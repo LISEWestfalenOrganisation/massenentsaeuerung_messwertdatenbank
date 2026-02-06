@@ -1,7 +1,7 @@
 
 # Erläuterungen zu den Vorlagen Messwerttabelle_Oberflächenmessung und Messwerttabelle_Kaltextrakt
 
-Um die eingebrachten Daten möglichst vergleichbar zu machen sind die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberfläche) oder [Kaltextrakt](Messwertabelle_Kaltextrakt) zu nutzen. Hierbei ist natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden.
+Um die eingebrachten Daten möglichst vergleichbar zu machen sind die hinterlegten Tabellenvorlagen [Oberflächenmessung](Messwerttabelle_Oberflächenmessung) oder [Kaltextrakt](Messwertabelle_Kaltextrakt) zu nutzen. Hierbei ist natürlich nicht notwendig alle Spalten auszufüllen, falls diese Daten nicht erhoben wurden.
 
 Besondere Vorgaben gelten bei folgenden Spalten:
 
