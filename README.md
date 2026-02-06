@@ -8,22 +8,45 @@ Hierbei handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben geruf
 ## Ziel
 Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von anderen Institutionen/Projekten erweiterbare Sammlung an vergleichbaren Messdaten zur Mengenentsäuerung der wissenschaftlichen Forschung zugänglich zu machen.
 
+## Struktur
+
+- Blockentsäuerung/
+  - datensatz.xlsx
+  - README.md
+    
+- Einzelblattentsäuerung/
+  - datensatz.xml
+    
+- Vorlage/
+  - README.md
+  - Vorlage.xml
+    
+- Code_of_Conduct.md
+  
+- Contributing.md
+  
+- LICENSE.md
+  
+- README.md
+
+
 ## Inhalte
 Ordner Blockentsäuerung
-- Allgemeine Beschreibung von Blockentsäuerungsverfahren
-- Beschreibung der genutzten Verfahren innerhalb der LISE/Westfalen
-- Beschreibung der Meßmethode
-- Auswahl der Menge und Messpunkte
 - LISE_QS_pH-Block.xlsx
+- Methodik der Datengewinnung.pdf -> Beschreibung der Meßmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
+- README.md -> Allgemeine Beschreibung von Blockentsäuerungsverfahren & Beschreibung der genutzten Verfahren durch LISE/Westfalen
+
 
 Ordner Einzelblattentsäuerung
+- LISE_QS_pH-Block.xlsx
 - Beschreibung des Verfahrens
 - Beschreibung der Meßmethode
 - Auswahl der Menge und Messpunkte
-- LISE_QS_pH-Block.xlsx
+
 
 Ordner Vorlagen
--Vorlage.xlsx
+- Vorlage.xlsx
+- 
 
 ## Mitwirkung bei der Erweiterung der Datensammlung/Contributing
 
@@ -35,18 +58,6 @@ Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erwei
 ## Verhaltenscodex/Code of Conduct
 
 Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe [Verhaltensregeln](Code_of_Conduct.md)
-
-## Struktur
-- Vorlage/
-  - README.md
-  - Vorlage.xml
-- Blockentsäuerung/
-  - datensatz.xml
-    
-- Einzelblattentsäuerung/
-  - datensatz.xml
-- LICENSE
-- README.md
 
 ## Pflege
 Dieses Repository wird derzeit von LISE/Westfalen gepflegt.  
