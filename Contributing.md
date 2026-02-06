@@ -1,11 +1,11 @@
 # Richtlinien zur Mitwirkung
 
-Dieser Abschnitt erklärt Ihnen wie die Vorgehensweise in folgenden Fällen:
-1. Erweiterung der Datenbank um eigene pH-Wert Datensammlung
-2. Stellen von Fragen und übermitteln von Anmerkungen zur Datensammlung
-3. Meldungen von Unstimmigkeiten und Fehlern bei der Datensammlung und/oder dem Inhalt der Seite
-4. Nutzung der Datensammlung
-5. Einbringung von möglichen Forschungsfragen 
+Dieser Abschnitt erklärt die Vorgehensweise in folgenden Fällen:  
+- Erweiterung der Datenbank um eigene pH-Wert Datensammlung
+- Stellen von Fragen und übermitteln von Anmerkungen zur Datensammlung
+- Meldungen von Unstimmigkeiten und Fehlern bei der Datensammlung und/oder dem Inhalt der Seite
+- Nutzung der Datensammlung
+- Einbringung von möglichen Forschungsfragen 
 
 Auch wird erklärt, welche Berechtigungen einem Contributer zugesprochen sind und wie man ggf. von einer Beteiligung zurücktritt.
 
@@ -30,7 +30,7 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reprodu
 ## Nutzung der Datensammlung
 
 
-## Forschungsfragen einbringen
+## Einbringung von Forschungsfragen
 
 
 ## Berechtigungen
