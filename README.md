@@ -16,7 +16,7 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
     - GSK_Archive-CP.pdf
     
-    -Methodik der Datengewinniung.pdf
+    - LISEWestfalen_Methodik zur Datengewinnung.docx
     
     - NCA Papersave swiss.pdf
     
@@ -28,6 +28,8 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
     
 **- Einzelblattentsäuerung/**
 
+    - LISEWestfalen_Methodik zur Datengewinnung.docx
+    
     - PAS_Einzelblattverfahren
     
     - README.md
