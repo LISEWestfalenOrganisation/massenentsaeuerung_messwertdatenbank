@@ -16,13 +16,12 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reprodu
 
 ## Erweiterung Datensammlung
 
-1. Schritt Erstellung eines Accounts auf
-2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson, den Username auf github mitteilen, damit eine Einladungsmail verschickt werden kann.
-3. 
-
+1. Schritt Erstellung eines Accounts auf GitHub
+2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson, den Username auf github  mitteilen, damit eine Einladungsmail verschickt werden kann.
+3. Hoch laden der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern siehe [Erläuterung Vorlagen](Vorlagen/README.md).
 
 ## Fragen und Anmerkungen zur Datensammlung
-
+Bei eventuellen Fragen sich an das Team LISEWestfalen wenden 
 
 ## Meldung von Fehlern und Unstimmigkeiten
 
