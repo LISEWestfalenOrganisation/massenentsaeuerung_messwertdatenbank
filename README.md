@@ -15,6 +15,8 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 **- Blockentsäuerung/**
 
     - GSK_Archive-CP.pdf
+
+    - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
     
     - LISEWestfalen_Methodik zur Datengewinnung.docx
     
@@ -28,6 +30,8 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
     
 **- Einzelblattentsäuerung/**
 
+    - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
+    
     - LISEWestfalen_Methodik zur Datengewinnung.docx
     
     - PAS_Einzelblattverfahren
