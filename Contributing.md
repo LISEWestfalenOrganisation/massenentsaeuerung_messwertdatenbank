@@ -21,7 +21,7 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reprodu
 3. Hoch laden der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern siehe [Erläuterung Vorlagen](Vorlagen/README.md).
 
 ## Fragen und Anmerkungen zur Datensammlung
-Bei eventuellen Fragen sich an das Team LISEWestfalen wenden 
+Bei eventuellen Fragen sich an das Team LISEWestfalen wenden. Entweder über eine klassische Mail an substanzerhalt@lwl.org oder mittels 
 
 ## Meldung von Fehlern und Unstimmigkeiten
 
