@@ -4,7 +4,7 @@ Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengen
 Grundlage sind die Messdaten die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden, welche jährlich upgedated werden sollen.
 
 Bei der Landesinitiative Substanzerhalthandelt handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben gerufene Projekt zur Förderung der Massenentsäuerung von nichtstaatlichem Archivgut. Aufgrund der Struktur des Landes Nordrhein-Westfalens wird das Projekt über zwei Zentren gesteuert. Für den Landesteil Rheinland erfolgt die Umsetzung des Projektes durch Mitarbeitende der LISE/Rheinland am LVR-Archivberatungs- und Fortbildungszentrum. Dieselben Aufgaben werden im westfälischen Landesteil durch Mitarbeitenden der LISE/Westfalen angegliedert ans LWL-Archivamt für Westfalen umgesetzt und durch diese werden die hier veröffentlichten Daten zur Verfügung gestellt und gepflegt.
-Das Projekt wurde 2019 verstetig, daraus entstand der Wunsch die im Rahmen des Projektes gewonnen Daten zur Weiternutzung zur Verfügung zu stellen. Auschlaggebend für die Umsetzung dieser Datenbank war die Förderung durch die Koordinierungsstelle für die Erhaltung des schriftlichen Kulturgut (KEK), welche 2025 bewilligt wurde.
+Das Projekt wurde 2019 verstetig, daraus entstand der Wunsch die im Rahmen des Projektes gewonnen Daten zur Weiternutzung zur Verfügung zu stellen. Ausschlaggebend für die Umsetzung dieser Datenbank war die Förderung durch die Koordinierungsstelle für die Erhaltung des schriftlichen Kulturguts (KEK), welche 2025 bewilligt wurde.
 
 ## Ziel
 
