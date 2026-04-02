@@ -1,10 +1,10 @@
 # Projekt: Aufbau pH-Wert Datenbank
 Dieses Repository ist eine Datensammlung von pH-Werten vor und nach einer Mengenentsäuerung.
 
-Grundlage sind die Messdaten die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden, welche jährlich upgedated werden sollen.
+Grundlage sind die Messdaten, die bisher im Rahmen der Landesinitiative Substanzerhalt (LISE)/Westfalen gesammelt wurden und weiterhin erfasst werden. Eine jährliche Erweiterung der Datensammlung um die aktuellen Messdaten ist vorgesehen.
 
-Bei der Landesinitiative Substanzerhalthandelt handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben gerufene Projekt zur Förderung der Massenentsäuerung von nichtstaatlichem Archivgut. Aufgrund der Struktur des Landes Nordrhein-Westfalens wird das Projekt über zwei Zentren gesteuert. Für den Landesteil Rheinland erfolgt die Umsetzung des Projektes durch Mitarbeitende der LISE/Rheinland am LVR-Archivberatungs- und Fortbildungszentrum. Dieselben Aufgaben werden im westfälischen Landesteil durch Mitarbeitenden der LISE/Westfalen angegliedert ans LWL-Archivamt für Westfalen umgesetzt und durch diese werden die hier veröffentlichten Daten zur Verfügung gestellt und gepflegt.
-Das Projekt wurde 2020 verstetig, daraus entstand der Wunsch die im Rahmen des Projektes gewonnen Daten zur Weiternutzung zur Verfügung zu stellen. Ausschlaggebend für die Umsetzung dieser Datenbank war die Förderung durch die Koordinierungsstelle für die Erhaltung des schriftlichen Kulturguts (KEK), welche 2025 bewilligt wurde.
+Bei der Landesinitiative Substanzerhalt handelt es sich um ein 2006 vom Land Nordrhein-Westfalen ins Leben gerufene Projekt zur Förderung der Massenentsäuerung von nichtstaatlichem Archivgut. Aufgrund der Struktur des Landes Nordrhein-Westfalens wird das Projekt über zwei Zentren gesteuert. Für den Landesteil Rheinland erfolgt die Umsetzung des Projektes durch Mitarbeitende der LISE/Rheinland am LVR-Archivberatungs- und Fortbildungszentrum. Dieselben Aufgaben werden im westfälischen Landesteil durch Mitarbeitenden der LISE/Westfalen, angegliedert ans LWL-Archivamt für Westfalen, umgesetzt. Diese ist auch verantwortlich für die Veröffentlichung und Pflege dieser Datenbank.
+Durch die Verstetigung des Projekts 2020 entstand der Wunsch, die im Rahmen des Projektes gewonnenen Daten zur Weiternutzung zur Verfügung zu stellen. Ermöglicht wurde die Umsetzung dieser Datenbank mittels der Förderung durch die Koordinierungsstelle für die Erhaltung des schriftlichen Kulturguts (KEK), welche 2025 bewilligt wurde.
 
 ## Ziel
 
@@ -63,12 +63,12 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
 **Ordner Blockentsäuerung**
 - LISEWestfalen_Messwerttabelle_Block.xlsx
-- Methodik der Datengewinnung.pdf -> Beschreibung der Meßmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
+- Methodik der Datengewinnung.pdf -> Beschreibung der Messmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
 - README.md -> Allgemeine Beschreibung von Blockentsäuerungsverfahren & Beschreibung der genutzten Verfahren durch die LISE/Westfalen
 
 **Ordner Einzelblattentsäuerung**
 - LISEWestfalen_Messwerttabelle_Einzelblatt.xlsx
-- Methodik der Datengewinnung.pdf -> Beschreibung der Meßmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
+- Methodik der Datengewinnung.pdf -> Beschreibung der Messmethode sowie die Darlegung der Auswahl der Messmenge und Messpunkte
 - README.md -> Allgemeine Beschreibung der wässrigen Entsäuerung & Beschreibung des genutzten Verfahrens durch die LISE/Westfalen
 
 **Ordner Vorlagen**
@@ -82,11 +82,11 @@ Verhaltensregeln zur Zusammenarbeit und die Konsequenzen bei Fehlverhalten siehe
 
 ## Mitwirkung bei der Erweiterung der Datensammlung/Contributing
 
-Vielen Dank für Ihr interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken Sie auf den folgenden Link:
+Vielen Dank für Ihr Interesse an unserem Repository. Wenn Sie sich an der Erweiterung der Datenbank beteiligen wollen, klicken Sie auf den folgenden Link:
 [Anleitung zur Beteiligung](Contributing.md)
 
 ## Pflegeanleitung
-Dieses Repository wird derzeit von LISE/Westfalen gepflegen.  
+Dieses Repository wird derzeit von LISE/Westfalen gepflegt.  
 Bei Änderungen bitte den Prozess „Pflegeanleitung.md“ beachten.
 
 ## Lizenz
