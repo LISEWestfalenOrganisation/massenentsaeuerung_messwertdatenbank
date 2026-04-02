@@ -18,7 +18,7 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Repro
 
 1. Erstellen eines GitHub-Accounts
 2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-Benutzernamen mitteilen, damit eine Einladungsmail verschickt werden kann.
-3. Hochladen der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern siehe [Erläuterung Vorlagen](Vorlagen/README.md).
+3. Hochladen der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern. Siehe [Erläuterung Vorlagen](Vorlagen/README.md).
 
 ## Fragen und Anmerkungen zur Datensammlung
 Bei eventuellen Fragen sich an das Team LISEWestfalen wenden. Entweder über eine klassische Mail an substanzerhalt@lwl.org oder mittels 
