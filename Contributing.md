@@ -9,7 +9,7 @@ Dieser Abschnitt erklärt die Vorgehensweise in folgenden Fällen:
 
 Auch wird erklärt, welche Berechtigungen einem Contributer zugesprochen sind und wie man ggf. von einer Beteiligung zurücktritt.
 
-Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct, siehe [Verhaltensregeln](Code_of_Conduct), und den Lizenzbedingungen, siehe [Lizenz](License) zustimmt.
+Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct, siehe [Verhaltensregeln](Code_of_Conduct), und den Lizenzbedingungen, siehe [Lizenz](License), zustimmt.
 
 Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Reproduzierbarkeit und Vergleichbarkeit erhalten bleibt.
 
