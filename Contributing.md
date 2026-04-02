@@ -1,11 +1,11 @@
 # Richtlinien zur Mitwirkung
 
 Dieser Abschnitt erklärt die Vorgehensweise in folgenden Fällen:  
-- Erweiterung der Datenbank um eigene pH-Wert Datensammlung
-- Stellen von Fragen und übermitteln von Anmerkungen zur Datensammlung
+- Erweiterung der Datenbank um eine eigene pH-Wert Datensammlung
+- Stellen von Fragen und Übermitteln von Anmerkungen zur Datensammlung
 - Meldungen von Unstimmigkeiten und Fehlern bei der Datensammlung und/oder dem Inhalt der Seite
 - Nutzung der Datensammlung
-- Einbringung von möglichen Forschungsfragen 
+- Einbringen von möglichen Forschungsfragen 
 
 Auch wird erklärt, welche Berechtigungen einem Contributer zugesprochen sind und wie man ggf. von einer Beteiligung zurücktritt.
 
@@ -16,9 +16,9 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollzibarkeit, Reprodu
 
 ## Erweiterung Datensammlung
 
-1. Schritt Erstellung eines Accounts auf GitHub
-2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson, den Username auf github  mitteilen, damit eine Einladungsmail verschickt werden kann.
-3. Hoch laden der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern siehe [Erläuterung Vorlagen](Vorlagen/README.md).
+1. Erstellen eines GitHub-Accounts
+2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-Benutzernamen mitteilen, damit eine Einladungsmail verschickt werden kann.
+3. Hochladen der eigenen Datensammlung im Format xlsx. Hierzu möglichst die unter Vorlagen abgelegten Mustertabellen verwenden oder eigene Vorlage mittels hochzuladender README-Datei erläutern siehe [Erläuterung Vorlagen](Vorlagen/README.md).
 
 ## Fragen und Anmerkungen zur Datensammlung
 Bei eventuellen Fragen sich an das Team LISEWestfalen wenden. Entweder über eine klassische Mail an substanzerhalt@lwl.org oder mittels 
