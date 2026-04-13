@@ -42,12 +42,16 @@ Dies kann auf folgenden Wegen geschehen:
 + mittels GitHub Issues
 
 ## Nutzung der Datensammlung
-
+Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zu gänglich. 
+Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert.
+Des Weiteren ist ein API Zugriff geplan, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werdenkann.
 
 
 ## Berechtigungen
+Durch die LISEWestfalen werden Berechtigungen wie Schreib- und Leserechte vergeben, welche bei zur Widerhandlung der Guidlines ( Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt werden.
 
 ## Rücktritt
+
 
 Diese Richtlinien können angepasst werden. Änderungen werden im Reposiory dokumentiert.
 
