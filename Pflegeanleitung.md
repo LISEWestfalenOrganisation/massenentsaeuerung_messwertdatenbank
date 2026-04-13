@@ -41,5 +41,5 @@ Contributer:
 Ein Contributor ist jemand, dessen Änderungen (Commits) in das Repository gemerged wurden.
 Beiträge können eine Datensammlungen, Fehlerbehebungen, Dokumentationsverbesserungen, Übersetzungen oder Issues umfassen.
 Typischerweise forken Contributor das Repository, erstellen einen Branch, nehmen Änderungen vor und stellen einen Pull Request.
-Die CONTRIBUTING.md-Dateien im Repository leiten Contributor an.
+Die CONTRIBUTING.md-Dateien im Repository leiten Contributor an und machen die Rechte und Pflichten für dieselben deutlich.
 
