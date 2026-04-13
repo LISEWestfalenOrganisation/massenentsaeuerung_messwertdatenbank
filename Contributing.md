@@ -48,10 +48,10 @@ Des Weiteren ist ein API Zugriff geplan, damit die Nutzung beobachtet und gegebe
 
 
 ## Berechtigungen
-Durch die LISEWestfalen werden Berechtigungen wie Schreib- und Leserechte vergeben, welche bei zur Widerhandlung der Guidlines ( Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt werden.
+Durch die LISEWestfalen werden Berechtigungen wie Schreib- und Leserechte vergeben, welche bei zur Widerhandlung der Guidlines ( Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
 
 ## Rücktritt
-
+Wer si
 
 Diese Richtlinien können angepasst werden. Änderungen werden im Reposiory dokumentiert.
 
