@@ -2,7 +2,7 @@
 
 Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
 
-+ pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines    Forschungsprojektes gewonnene Werte und Daten
++ pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes gewonnene Werte und Daten
 + Datenstruktur optimieren
 + Technische Features entwickeln
 + Forschungsfragen einbringen und bearbeiten
@@ -10,9 +10,9 @@ Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise ka
 # Vorraussetzung für Beiträge
 
 Damit die Qualität der Datenbank gewährleistet bleibt, müssen alle Beiträge diese Kriterien erfüllen:
-+ Nachvollziehbarkeit: 
-+ Konsistenz:
-+ Neutralität:
++ Nachvollziehbarkeit: Wie wurden die Datengewonnen - Auswahl der Messpunkte und Menge der Messungen, wie wurde die Messung durchgeführt.
++ Konsistenz: Alle Daten müssen gleichbleiben nach dem vorgegebenen Schema in die Tabelle eingetragen werden.
++ Neutralität: Keine subjektive Wertung, nur Auswertung der Daten.
 
 Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct, siehe [Verhaltensregeln](Code_of_Conduct), und den Lizenzbedingungen, siehe [Lizenz](License), zustimmt. 
 
