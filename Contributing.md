@@ -20,8 +20,8 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Repro
 
 # Beitrag einreichen
 
-1. Erstellen eines GitHub-Accounts
-2. Beteiligung anfragen unter substanzerhalt@lwl.org. In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-        Benutzernamen mitteilen, damit eine Einladungsmail verschickt werden kann.
+1. Erstellen eines GitHub-Accounts (Sofern noch nicht als Contributer aufgenommen)
+2. Beteiligung anfragen unter substanzerhalt@lwl.org: In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-        Benutzernamen mitteilen, damit eine Einladung via GitHub verschickt werden kann.
 3. Um den Beitrag/die eigene Datensammlung einzureichen ist:
    + Das Repository zu forken
    + Die Änderung in einer neuen Branche vorzunehmen
