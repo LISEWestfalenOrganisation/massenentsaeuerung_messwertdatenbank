@@ -2,16 +2,16 @@
 
 Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
 
-+ pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes gewonnene Werte und Daten
++ pH-Wert Sammlung hinzufügen, sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes
 + Datenstruktur optimieren
 + Technische Features entwickeln
 + Forschungsfragen einbringen und bearbeiten
 
-# Vorraussetzung für Beiträge
+# Voraussetzung für Beiträge
 
 Damit die Qualität der Datenbank gewährleistet bleibt, müssen alle Beiträge diese Kriterien erfüllen:
-+ Nachvollziehbarkeit: Wie wurden die Datengewonnen - Auswahl der Messpunkte und Menge der Messungen, wie wurde die Messung durchgeführt.
-+ Konsistenz: Alle Daten müssen gleichbleiben nach dem vorgegebenen Schema in die Tabelle eingetragen werden.
++ Nachvollziehbarkeit: Wie wurden die Daten gewonnen - Auswahl der Messpunkte und Menge der Messungen, wie wurde die Messung durchgeführt.
++ Konsistenz: Alle Daten müssen gleichbleibend nach dem vorgegebenen Schema in die Tabelle eingetragen werden.
 + Neutralität: Keine subjektive Wertung, nur Auswertung der Daten.
 
 Zusätzlich wird darauf hingewiesen, dass bei einer Beteiligung, die Person/Institution dem Code of Conduct, siehe [Verhaltensregeln](Code_of_Conduct), und den Lizenzbedingungen, siehe [Lizenz](License), zustimmt. 
@@ -21,7 +21,7 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Repro
 # Beitrag einreichen
 
 1. Erstellen eines GitHub-Accounts (Sofern noch nicht als Contributer aufgenommen)
-2. Beteiligung anfragen unter substanzerhalt@lwl.org: In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-        Benutzernamen mitteilen, damit eine Einladung via GitHub verschickt werden kann.
+2. Beteiligung anfragen unter substanzerhalt@lwl.org: In dieser Mail muss die Institution neben ihren eigenen Daten und der Ansprechperson auch den GitHub-        Benutzernamen mitteilen, damit eine Einladung via GitHub verschickt werden kann.
 3. Um den Beitrag/die eigene Datensammlung einzureichen ist:
    + Das Repository zu forken
    + Die Änderung in einer neuen Branche vorzunehmen
@@ -42,13 +42,13 @@ Dies kann auf folgenden Wegen geschehen:
 + mittels GitHub Issues
 
 ## Nutzung der Datensammlung
-Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zu gänglich. 
+Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zugänglich. 
 Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISEWestfalen als (Maintainer) gesteuert wird.
 Des Weiteren ist ein API Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werdenkann.
 
 ## Berechtigungen
-Durch die LISEWestfalen (Maintainer) werden Berechtigungen wie Schreib- und Leserechte vergeben und verwaltet, welche bei zur Widerhandlung der Guidlines (Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
-Im Streitfall falls keine Einigung mittels Issues oder Pull requests erzielt werden kann, trifft die LISEWestfalen die finale Entscheidung.
+Durch die LISEWestfalen (Maintainer) werden Berechtigungen wie Schreib- und Leserechte vergeben und verwaltet, welche bei Zuwiderhandlung der Guidlines (Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen werden können.
+Im Streitfall,oder falls keine Einigung mittels Issues oder Pull requests erzielt werden kann, trifft die LISEWestfalen die finale Entscheidung.
 Beteiligte (Contributors) liefern Daten, Dokumentationen oder Ideen passend zum Projekt, haben aber kein automatisches Entscheidungsrechte.
 
 ## Austritt aus dem Projekt
