@@ -2,12 +2,12 @@
 
 Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
 
-+ pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes gewonnene Werte und Daten
++ pH-Wertsammlung hinzufügen sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes
 + Datenstruktur optimieren
 + Technische Features entwickeln
 + Forschungsfragen einbringen und bearbeiten
 
-# Vorraussetzung für Beiträge
+# Voraussetzung für Beiträge
 
 Damit die Qualität der Datenbank gewährleistet bleibt, müssen alle Beiträge diese Kriterien erfüllen:
 + Nachvollziehbarkeit: Wie wurden die Datengewonnen - Auswahl der Messpunkte und Menge der Messungen, wie wurde die Messung durchgeführt.
