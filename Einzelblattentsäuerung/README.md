@@ -1,4 +1,4 @@
-**Einzelblattentsäuerung**
+# **Einzelblattentsäuerung**
 
 Die Einzelblattentsäuerung beschreibt im klassischen Sinne ein konservatorisches Verfahren innerhalb der Restaurierung von Papierobjekten, welche einen säurebedingten Papierzerfall aufweisen.
 Hierzu wird mittels eines in Wasser gelösten Erdalkalicarbonats die Säure im Papier neutralisiert und ein alkalischer Puffer eingebracht.
