@@ -9,3 +9,7 @@ Im Projekt Landesinitiative Substanzerhalt genutzte Verfahren:
 [Verfahrensbeschreibung NCA](NCA_Papersave_swiss.pdf)
 
 [Verfahrensbeschreibung PAL](PAL_Booksaver.pdf)
+
+[Verfahrensbeschreibung ZFB](ZFB_Papersave.pdf)
+
+[Verfahrensbeschreibung ZFB](ZFB_ZFB2)
