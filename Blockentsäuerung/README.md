@@ -12,4 +12,4 @@ Im Projekt Landesinitiative Substanzerhalt genutzte Verfahren:
 
 [Verfahrensbeschreibung ZFB](ZFB_Papersave.pdf)
 
-[Verfahrensbeschreibung ZFB](ZFB_ZFB2)
+[Verfahrensbeschreibung ZFB 2](ZFB_ZFB2)
