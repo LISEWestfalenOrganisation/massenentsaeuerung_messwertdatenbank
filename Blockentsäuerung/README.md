@@ -1,4 +1,4 @@
-Blockentsäuerung:
+**Blockentsäuerung**
 
 Die Blockentsäuerung beschreibt ein standardisiertes Verfahren der Mengenentsäuerung, bei dem Archiv- und Bibliotheksgut in einer nichtwässrigen Lösung entsäuert wird. Hierbei wird gleichzeitig eine alkalische Reserve eingebracht. Es handelt sich um nichtwässrige Flüssigverfahren, die entweder heterogen mit dispergierten Partikeln (Bookkeeper®, ZFB:2-Verfahren) oder homogen auf Lösungsmittelbasis (PAL Book Saver®, papersave®) arbeiten.
 
