@@ -44,7 +44,7 @@ Dies kann auf folgenden Wegen geschehen:
 ## Nutzung der Datensammlung
 Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zu gänglich. 
 Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISE-Westfalen als Maintainer gesteuert wird.
-Des Weiteren ist ein API Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werden kann.
+Des Weiteren ist ein API-Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werden kann.
 
 ## Berechtigungen
 Durch die LISE-Westfalen (Maintainer) werden Berechtigungen wie Schreib- und Leserechte vergeben und verwaltet, welche bei zur Widerhandlung der Guidlines (Code of Conduct, Licence etc.) wieder aufgehoben werden oder gegebenenfalls mit Sperrfristen belegt sind.
@@ -59,7 +59,7 @@ Bei Austritt gilt:
 + Es besteht kein Anspruch auf Entfernung der Daten
 + Rollen und Zugriffsrechte werden entzogen
 + offene Aufgaben werden übergeben
-+ Bis dato eingefügte Beitäge müssen dokumentiert sein
++ Bis dato eingefügte Beiträge müssen dokumentiert sein
 
 
 
