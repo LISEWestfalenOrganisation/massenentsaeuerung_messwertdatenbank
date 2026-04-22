@@ -1,6 +1,6 @@
 # Mitwirken
 
-Beiträge zur Unterstüzung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
+Beiträge zur Unterstützung des Projektes sind willkommen. Auf folgende Weise kann das Projekt unterstützt werden:
 
 + pH-Wertsammlung erweitern, sei es auf Basis eines eigenen Massenentsäuerungsprojektes/Auftrages, Validierung eines Entsäuerungsverfahrens oder im Rahmen eines Forschungsprojektes
 + Datenstruktur optimieren
