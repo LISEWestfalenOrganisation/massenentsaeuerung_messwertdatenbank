@@ -16,36 +16,32 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 **- Blockentsäuerung/**
 
     - GSK_Archive-CP.pdf
-
-    - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
-    
-    - LISEWestfalen_Methodik zur Datengewinnung.pdf
     
     - NCA Papersave swiss.pdf
     
     - PAL Booksaver.pdf
     
     - README.md
+
+    - ZFB_Papersave.pdf
+
+    - ZFB_ZFB:2.pdf    
     
-    - LISEWestfalen_Messwertabelle_Block.xlsx
     
 **- Einzelblattentsäuerung/**
-
-    - LISEWestfalen_Dienstleister nach Haushaltsjahren.pdf
-    
-    - LISEWestfalen_Methodik zur Datengewinnung.pdf
     
     - PAS_Bückeburger Conservation Process.pdf
     
     - README.md
     
-    - LISEWestfalen_Messwerttabelle_Einzelblatt
     
-**- Vorlagen/**
+**- Messwerttabelle/**
 
-    - Messwerttabelle_Kaltextract.xlsx
+    - LISEWestfalen_Methodik zur Datengewinnung.pdf
+
+    - Messwerttabelle_Kaltextrakt.xlsm
     
-    - Messwerttabelle_Oberflächenmessungen.xlsx
+    - Messwerttabelle_Oberflächenmessungen.xlsm
     
     - Positionsmaske_Oberflächenmessungen.pdf
     
