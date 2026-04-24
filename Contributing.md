@@ -24,8 +24,8 @@ Durch diese Richtlinien wird gewährleistet, dass die Nachvollziehbarkeit, Repro
 2. Beteiligung anfragen unter substanzerhalt@lwl.org: In dieser Mail muss die Institutionen neben ihren eigenen Daten und der Ansprechperson auch den GitHub-        Benutzernamen mitteilen, damit eine Einladung via GitHub verschickt werden kann.
 3. Um den Beitrag/die eigene Datensammlung einzureichen ist:
    + Das Repository zu forken
-   + Die Änderung in einer neuen Branche vorzunehmen
-   + Die Daten im gegebenen Format hochzuladen, siehe [Erläuterung Vorlagen](Vorlagen/README.md).
+   + Die Änderung in einem neuen Branch vorzunehmen
+   + Die Daten im gegebenen Format hochzuladen, siehe [Erläuterung Messwerttabelle](Messwerttabelle/README.md).
    + Pull Request erstellen
    + Eine kurze Beschreibung der Änderung hinzuzufügen
      
@@ -42,7 +42,7 @@ Dies kann auf folgenden Wegen geschehen:
 + mittels GitHub Issues
 
 ## Nutzung der Datensammlung
-Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle freizugänglich. 
+Die Nutzung der Datensammlung ist wie oben genannt unter Namensnennung der Quelle frei zugänglich. 
 Die Datensammlung wird über die vorhandenen Guidlines, Berechtigungen und Dokumentationen gesteuert, welche von der LISE-Westfalen als Maintainer gesteuert wird.
 Des Weiteren ist ein API-Zugriff geplant, damit die Nutzung beobachtet und gegebenenfalls an Interessen angepasst werden kann.
 
