@@ -41,7 +41,9 @@ Ziel dieses Repository ist es, auf Grundlage dieser Messdaten eine auch von ande
 
     - Messwerttabelle_Kaltextrakt.xlsm
     
-    - Messwerttabelle_Oberflächenmessungen.xlsm
+    - Messwerttabelle_Oberfläche_Block.xlsm
+
+    - Messwerttabelle_Oberfläche_Einzelblatt
     
     - Positionsmaske_Oberflächenmessungen.pdf
     
